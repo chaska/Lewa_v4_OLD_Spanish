@@ -868,7 +868,7 @@
 	<string name="to_address_label">"A: "</string>
 	<string name="bcc_label">"Bcc: "</string>
 	<string name="sent_label">"Enviado: "</string>
-	<string name="received_label">"Recivido: "</string>
+	<string name="received_label">"Recibido: "</string>
 	<string name="saved_label">"Guardado: "</string>
 	<string name="subject_label">"Asunto: "</string>
 	<string name="message_size_label">"Tamaño del mensaje: "</string>
@@ -891,7 +891,7 @@
 	<string name="status_none">(Ninguno)</string>
 	<string name="status_pending">Pendiente</string>
 	<string name="status_read">Leido</string>
-	<string name="status_received">Recivido</string>
+	<string name="status_received">Recibido</string>
 	<string name="status_failed">Fracasado</string>
 	<string name="status_unread">Sín leer</string>
 	<string name="status_rejected">Rechazado</string>
@@ -1276,7 +1276,7 @@
 	<string name="pref_summary_save_location">Carpeta donde guardar los archivos adjuntos</string>
 	<string name="remove_subject">quitar sujeto</string>
 	<string name="message_compose_menu_mms_resend_label">reenviar mms</string>
-	<string name="message_item_received_label">recivido:</string>
+	<string name="message_item_received_label">recibido:</string>
 	<string name="sms_backup_location">Ubicación de almacenamiento Copia de seguridad SMS</string>
 	<string name="sms_send_count_limit">El envío de mensajes sólo se puede elegir uno de los 100 contactos</string>
 	<string name="mms_lewa_easter_eggs">feliz navidad</string>
